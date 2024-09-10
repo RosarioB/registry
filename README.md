@@ -1,3 +1,8 @@
+# Registry App
+A React application in `TypeScript` that simulates the `NPM registry` website using the NPM registry API. It employs `React Router` for navigation and for making requests to the NPM API.
+
+![alt text](https://github.com/RosarioB/registry/blob/main/github_images/registry.gif?raw=true)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +53,6 @@ export default tseslint.config({
   },
 })
 ```
+
+# Acknowledgments
+This code is adapted from the course [Modern React with Redux](https://www.udemy.com/course/react-redux) by Stephen Grider, with some modifications.
